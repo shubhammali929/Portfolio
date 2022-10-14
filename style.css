@@ -23,12 +23,7 @@ header ul li{
     display: inline-block;
 }
 .main1{
-    /* background-image: url("wall1.png"); */
-    margin-top: 0px;
-    
-    /* height:700px; */
-    /* overflow: hidden; */
-    
+    margin-top: 0px;  
 }
 .main1 img{
     position: absolute;
