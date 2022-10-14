@@ -1,0 +1,42 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-image: url("gym.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    color: white;
+    font-family: 'Baloo Da 2', cursive;
+}
+header{
+    
+}
+header ul{
+    height: 50px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.main1{
+    /* background-image: url("wall1.png"); */
+    margin-top: 0px;
+    
+    /* height:700px; */
+    /* overflow: hidden; */
+    
+}
+.main1 img{
+    position: absolute;
+    height: 700px;
+    width: 100%;
+    opacity: 0.8;
+}
+.main p{
+    color: brown;
+    
+}
