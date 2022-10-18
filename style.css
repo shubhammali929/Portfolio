@@ -8,8 +8,7 @@ body {
     color: white;
     font-family: 'Baloo Da 2', cursive;
 }
-header{
-    
+header{    
 }
 header ul{
     height: 50px;
@@ -32,6 +31,5 @@ header ul li{
     opacity: 0.8;
 }
 .main p{
-    color: brown;
-    
+    color: brown;   
 }
